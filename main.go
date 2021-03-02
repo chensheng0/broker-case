@@ -1,7 +1,7 @@
 package main
 
-import "github.com/chensheng0/broker-case/first"
+import "github.com/chensheng0/broker-case/second"
 
 func main() {
-	first.First()
+	second.Second()
 }
